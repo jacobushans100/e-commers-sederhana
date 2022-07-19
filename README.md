@@ -13,3 +13,5 @@ Cara install aplikasi:
 - jalankan aplikasi dengan syntax "php artisan serve"
 - jika ada pesan error key generate jalankan syntax "php artisan key:generate"
 - jalankan migration dengan syntax "php artisan migrate"
+
+https://drive.google.com/drive/folders/TqFIY5RulBlC8Mqmn6FtuazyrcvHp1V_?usp=sharing
