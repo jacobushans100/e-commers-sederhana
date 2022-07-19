@@ -10,7 +10,8 @@
                             <p class="card-text">Menjual Berbagai Makanan Kucing</p>
                         </div>
                         <div class="col-lg-4 text-center">
-                            <img src="images/cat.png" class="card-img-top" alt="..." style="width:100px;height:100px;">
+                            <img src="/home/images/cat.png" class="card-img-top" alt="..."
+                                style="width:100px;height:100px;">
                         </div>
                     </div>
                 </div>
