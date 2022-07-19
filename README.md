@@ -1,5 +1,10 @@
 # E-commers Sederhana
 
+kebutuhan software:
+- composer versi 2.0
+- PHP >=7.4
+- mysql
+
 Cara install aplikasi:
 - git clone https://github.com/jacobushans100/e-commers-sederhana.git
 - rename file .env.example menjadi .env
